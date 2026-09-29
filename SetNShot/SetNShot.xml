@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.4.0">
+<UserPlugin Name="SetNShot" Version="2.1.1" Author="" path="SetNShot/MA3 2.4">
+        <ComponentLua FileName="SetNShot.lua"  />
+
+</UserPlugin>
+</GMA3>

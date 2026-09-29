@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.9.3">
+<UserPlugin Name="CreateFixtureGroups" Version="2.9.0" Author="">
+    <ComponentLua FileName="CreateFixtureGroups.lua" />
+</UserPlugin>
+</GMA3>
