@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<GMA3 DataVersion="2.3.2.0">
-    <UserPlugin Name="Layout Builder" Version="1.6.0">
-        <ComponentLua Name="[Layout Builder]" FileName="LayoutBuilder.lua"/>
-    </UserPlugin>
-</GMA3>
