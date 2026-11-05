@@ -5,7 +5,7 @@ grandMA3 plugin (target 2.5.1) for working on many sequences at once. Formerly S
 One window for the whole session; panels swap in place and it stays open between rounds until you close it. The selection is kept between runs. Switch modes at the top.
 
 ## Find Sequences (all modes)
-Name contains, number range, assigned to executors (any page or one page). Pick results, then Add or Replace the selection.
+Name contains, number range, assigned to executors (any page or one page). Pick results, then Add or Replace the selection. **Clear search** empties the fields and the results. Search uses what the fields show and logs the terms in the System Monitor.
 
 ## Settings mode
 - Every setting from the Sequence Settings pop-up (Label, Start, Playback, Speed, Protect, MIB) shows the shared current value or "Mixed". Tap to set a new value; only settings you change are written. Name, Scribble, Appearance and Note are not bulk-edited.
@@ -30,4 +30,4 @@ Name contains, number range, assigned to executors (any page or one page). Pick 
 Import `SeqTools_Embedded_<timestamp>.xml` into an empty Plugins pool slot (single XML, Lua embedded).
 
 ## Status
-1.3.1 -- Clear all individuals button. 1.3.0 -- Cues & Recipes mode (property names, enums and write paths from CueDiag 0.1/0.2 on 2.5.1.0); awaiting console run. 1.2.1 -- naming fixes after the first Copy & Regroup tests. Copy, regroup and cook confirmed on 2.5.1 (1.2.0 run, 9 copies). Settings mode confirmed on 2.5.1 (SeqEdit 1.0.1/1.1.0).
+1.3.2 -- Clear search button; search reads the fields directly. 1.3.1 -- Clear all individuals button. 1.3.0 -- Cues & Recipes mode (property names, enums and write paths from CueDiag 0.1/0.2 on 2.5.1.0); awaiting console run. 1.2.1 -- naming fixes after the first Copy & Regroup tests. Copy, regroup and cook confirmed on 2.5.1 (1.2.0 run, 9 copies). Settings mode confirmed on 2.5.1 (SeqEdit 1.0.1/1.1.0).
